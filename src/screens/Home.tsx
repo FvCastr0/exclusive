@@ -1,5 +1,6 @@
 import styled from "styled-components"
-import Header from "../components/screenComponent/Header"
+import Header from "components/screenComponent/Header"
+
 
 const StyledHome = styled.div`
 

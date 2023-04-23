@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Home from "./screens/Home";
+import Home from "screens/Home";
 import Navigation from "./components/screenComponent/Navigation";
 
 export default function AppRoutes() {

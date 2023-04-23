@@ -1,10 +1,9 @@
-import styled from "styled-components"
 import logo from './img/logo.png'
 import find from './img/find.svg'
 import cart from './img/cart.svg'
 import wishlist from './img/wishlist.svg'
 import { Link } from "react-router-dom"
-import { StyledNav } from "../../styles/StyledNav"
+import { StyledNav } from "components/styles/StyledNav"
 
 export default function Navigation() {
     return (

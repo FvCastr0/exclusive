@@ -1,8 +1,7 @@
-import styled from 'styled-components'
 import banner from './img/banner.png'
 import bannerNoText from './img/bannerNoText.png'
 import { Link } from 'react-router-dom'
-import { StyledHeader } from '../../styles/StyledHeader'
+import { StyledHeader } from 'components/styles/StyledHeader'
 
 export default function Header() {
     return (
