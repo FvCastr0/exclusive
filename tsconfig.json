@@ -8,13 +8,13 @@
     ],
     "baseUrl": "./src/",
     "paths": {
-      "@/components/*": [
+      "components/*": [
         "components/*"
       ],
-      "@/screens/*": [
+      "screens/*": [
         "screens/*"
       ],
-      "@/interface/*": [
+      "interface/*": [
         "interface/*"
       ],
     },
